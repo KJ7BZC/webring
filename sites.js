@@ -24,7 +24,7 @@ let sites =
 		url: "http://www.dms-100.net",
 		tagline: "Adventures in setting up a lab DMS-100."
 	}
-        ,{
+    ,{
 		name: "PlayaTel BBS",
 		url: "https://bbs.playa.tel",
 		tagline: "Another great service from your CO here at 7:30 & C"
@@ -38,5 +38,10 @@ let sites =
 		name: "Incompetel",
 		url: "http://incompetel.net",
 		tagline: "It's in the name."
+	}
+	,{
+		name: "VCO4K.net",
+		url: "https://www.vco4k.net",
+		tagline: "Documenting and restoring a VCO4K programmable telephone switch."
 	}
 ]
